@@ -63,3 +63,7 @@
 ---
 
 [Сайт ChaMi VPN](https://chama.cc) · [Поддержка в Telegram](https://t.me/Chama_VPN_support_bot) · [Все релизы](https://github.com/chami-vpn/chami-android/releases)
+
+## Лицензии
+
+[Лицензии сторонних компонентов и исходный код ядра](THIRD_PARTY_NOTICES.md)
