@@ -1,6 +1,16 @@
-# ChaMi VPN
+<p align="center">
+  <img src="assets/chami-logo.png" width="104" alt="Логотип ChaMi VPN">
+</p>
 
-Официальное приложение ChaMi VPN для телефонов, планшетов и телевизоров на Android.
+<h1 align="center">ChaMi VPN</h1>
+
+<p align="center">Официальное приложение ChaMi VPN для телефонов, планшетов и телевизоров на Android.</p>
+
+<p align="center">
+  <a href="https://github.com/chami-vpn/chami-android/releases/latest/download/ChaMi-Android.apk">
+    <img src="assets/android-download.png" width="244" alt="Скачать для Android">
+  </a>
+</p>
 
 [Телефон и планшет](#телефон-и-планшет) · [Телевизор](#телевизор) · [Поддержка](https://t.me/Chama_VPN_support_bot)
 
