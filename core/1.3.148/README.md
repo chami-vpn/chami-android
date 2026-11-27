@@ -1,6 +1,6 @@
-# Go-обвязка ядра ChaMi VPN для Android 1.3.148
+# Go-обвязка ядра ChaMi VPN для Android 0.1.0
 
-Эта папка содержит исходники Go-обвязки, из которой собрана `libgojni.so` для Android **1.3.148**, и скрипты для сборки библиотеки и повторной упаковки APK.
+Эта папка содержит исходники Go-обвязки, из которой собрана `libgojni.so` для Android **0.1.0**, и скрипты для сборки библиотеки и повторной упаковки APK.
 
 Обвязка основана на [AndroidLibXrayLite, коммит `2ffe5f794a32b`](https://github.com/2dust/AndroidLibXrayLite/tree/2ffe5f794a32ba15b122e177b5acffc6f11c4959). ChaMi VPN изменил набор доступных Android-методов, запуск и остановку ядра и обработку файлов геоданных. Эта версия обвязки вошла в выпуск от 27 ноября 2026 года. [LGPL‑3.0](android/native/LICENSE) · [GPL‑3.0](../../licenses/GPL-3.0.txt) · [Уведомления о сторонних компонентах](../../THIRD_PARTY_NOTICES.md)
 
@@ -27,10 +27,10 @@ python3 tools/build-android-core.py build
 
 ## Перепакуйте APK и подпишите своим ключом
 
-Скачайте [исходный APK Android 1.3.148](https://github.com/chami-vpn/chami-android/releases/download/v1.3.148/ChaMi-Android.apk) и поместите его в текущую папку. Его SHA‑256 указан ниже.
+Скачайте [исходный APK Android 0.1.0](https://github.com/chami-vpn/chami-android/releases/download/v0.1.0/ChaMi-Android.apk) и поместите его в текущую папку. Его SHA‑256 указан ниже.
 
 ```text
-ed3d0d17cc1b75dfd92521b70e6c1fe8d9616c3db770a439968c9aa9581b374c
+79537de97bfbf030140dcefd5784c328c3897d638ff4138a721a8c61ba4b0817
 ```
 
 Скрипт создаёт отдельный APK, заменяет в нём `libgojni.so` для архитектур исходного APK и удаляет старую подпись. Готовые DEX-файлы, ресурсы и базы маршрутизации берутся из исходного APK.
