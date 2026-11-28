@@ -5,7 +5,7 @@
 ## Ядро и обвязка Android
 
 - **Xray-core** — Mozilla Public License 2.0 ([текст](licenses/MPL-2.0.txt)). ChaMi VPN включает изменённую версию ядра из публичного форка. [Исходный проект](https://github.com/XTLS/Xray-core) · [Исходный код ядра для 0.1.0, коммит `351d3d6e41e3`](https://github.com/chami-vpn/chami-core/tree/351d3d6e41e3995c92bed212ae0c14b2c992e443).
-- **AndroidLibXrayLite** — GNU Lesser General Public License v3.0. Изменённая обвязка на основе AndroidLibXrayLite входит в APK в составе `libgojni.so`. [Исходники обвязки для Android 0.1.0, скрипты сборки и инструкция по перепаковке APK](core/1.3.148/). [Исходный проект](https://github.com/2dust/AndroidLibXrayLite/tree/2ffe5f794a32ba15b122e177b5acffc6f11c4959) · [LGPL‑3.0](licenses/LGPL-3.0.txt) · [GPL‑3.0](licenses/GPL-3.0.txt).
+- **AndroidLibXrayLite** — GNU Lesser General Public License v3.0. Изменённая обвязка на основе AndroidLibXrayLite входит в APK в составе `libgojni.so`. [Исходники обвязки для Android 0.1.0, скрипты сборки и инструкция по перепаковке APK](core/0.1.0/). [Исходный проект](https://github.com/2dust/AndroidLibXrayLite/tree/2ffe5f794a32ba15b122e177b5acffc6f11c4959) · [LGPL‑3.0](licenses/LGPL-3.0.txt) · [GPL‑3.0](licenses/GPL-3.0.txt).
 - **Go**, © The Go Authors — стандартная библиотека и среда выполнения Go 1.27.4. [Лицензионное уведомление Go](licenses/Go-BSD-3-Clause.txt). [Тексты лицензий и уведомлений зависимостей Go](licenses/Go-dependency-notices.txt).
 
 ## Данные маршрутизации

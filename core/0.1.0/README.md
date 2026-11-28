@@ -14,7 +14,7 @@
 
 ```sh
 git clone https://github.com/chami-vpn/chami-android.git
-cd chami-android/core/1.3.148
+cd chami-android/core/0.1.0
 ```
 
 Внесите нужные изменения в `android/native/`. Сохраните сигнатуры экспортируемых вызовов Go, чтобы новая библиотека подошла к существующему коду в APK. Затем запустите скрипт.
