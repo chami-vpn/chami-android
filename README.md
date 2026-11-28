@@ -4,20 +4,25 @@
 
 <h1 align="center">ChaMi VPN</h1>
 
-<p align="center">Официальное приложение ChaMi VPN для телефонов, планшетов и телевизоров на Android.</p>
+<p align="center">
+  <a href="https://github.com/chami-vpn/chami-android/releases/latest">
+    <img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20APK-125C46?style=for-the-badge&amp;logo=android&amp;logoColor=white" width="200" alt="Скачать APK">
+  </a>
+</p>
 
-**Телефон или планшет**  
-[Скачать APK](https://github.com/chami-vpn/chami-android/releases/latest/download/ChaMi-Android.apk) · [Инструкция](#телефон-и-планшет)
+<p align="center">ChaMi VPN для телефонов, планшетов и телевизоров на Android.</p>
 
-**Android TV или Google TV**  
-[Инструкция для ТВ](#телевизор) · Код для Downloader **`8030506`**
+<p align="center">
+  <strong>Телефон и планшет</strong> · <a href="#телефон-и-планшет">Инструкция</a><br>
+  <strong>Телевизор</strong> · <a href="#телевизор">Инструкция</a>
+</p>
 
 Для подключения нужна ссылка на подписку ChaMi VPN. Если подписки ещё нет, начните с [сайта ChaMi VPN](https://chama.cc).
 
 ## Телефон и планшет
 
-1. [Скачайте ChaMi-Android.apk](https://github.com/chami-vpn/chami-android/releases/latest/download/ChaMi-Android.apk). Если уведомление о загрузке исчезло, найдите файл в папке **Загрузки**.
-2. Откройте APK и нажмите **Установить**. Если Android попросит разрешение, откройте **Настройки** из этого сообщения, разрешите установку для браузера или файлового менеджера, из которого открыли APK, и вернитесь к установке.
+1. Откройте [страницу последнего релиза](https://github.com/chami-vpn/chami-android/releases/latest) и выберите **ChaMi-Android.apk** в списке **Assets**. Если файл не скачивается во встроенном окне, выберите **Открыть в браузере** в меню приложения и нажмите на файл ещё раз.
+2. Откройте скачанный APK и нажмите **Установить**. Файл можно найти в папке **Загрузки**. Если Android попросит разрешение, откройте **Настройки** из этого сообщения, разрешите установку для браузера или файлового менеджера, из которого открыли APK, и вернитесь к установке.
 3. Откройте **ChaMi VPN**, скопируйте ссылку на подписку и нажмите **Вставить из буфера**. Для ручного ввода выберите **Ввести вручную**. Нажмите круглую кнопку питания. При первом подключении подтвердите системный запрос VPN и дождитесь статуса **Подключен**.
 
 ## Телевизор
@@ -44,8 +49,4 @@
 
 ---
 
-[Сайт ChaMi VPN](https://chama.cc) · [Поддержка в Telegram](https://t.me/Chama_VPN_support_bot) · [Все релизы](https://github.com/chami-vpn/chami-android/releases)
-
-## Лицензии
-
-[Лицензии сторонних компонентов и исходный код ядра](THIRD_PARTY_NOTICES.md)
+[Сайт](https://chama.cc) · [Поддержка](https://t.me/Chama_VPN_support_bot) · [Все релизы](https://github.com/chami-vpn/chami-android/releases) · [Лицензии и исходники ядра](THIRD_PARTY_NOTICES.md)
