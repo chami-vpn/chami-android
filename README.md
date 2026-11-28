@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<p align="center"><small>Если APK не скачивается, откройте эту страницу в браузере и снова нажмите «Скачать APK».</small></p>
-
 <p align="center">ChaMi VPN для телефонов, планшетов и телевизоров на Android.</p>
 
 <p align="center">
