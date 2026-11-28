@@ -1,12 +1,12 @@
-Licenses and notices supplied with Android 1.3.148 runtime archives.
+Licenses and notices for Android 0.1.0. This collection was originally compiled from Android 1.3.148 runtime archives.
 
 ========================================================================
-Android 1.3.148 APK — META-INF/androidx/annotation/annotation/LICENSE.txt
-Android 1.3.148 APK — META-INF/androidx/collection/collection-ktx/LICENSE.txt
-Android 1.3.148 APK — META-INF/androidx/collection/collection/LICENSE.txt
-Android 1.3.148 APK — META-INF/androidx/lifecycle/lifecycle-common-java8/LICENSE.txt
-Android 1.3.148 APK — META-INF/androidx/lifecycle/lifecycle-common/LICENSE.txt
-Android 1.3.148 APK — META-INF/androidx/room/room-common/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/annotation/annotation/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/collection/collection-ktx/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/collection/collection/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/lifecycle/lifecycle-common-java8/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/lifecycle/lifecycle-common/LICENSE.txt
+Android 0.1.0 APK — META-INF/androidx/room/room-common/LICENSE.txt
 androidx.activity:activity-compose:1.13.0 — META-INF/androidx/activity/activity-compose/LICENSE.txt
 androidx.activity:activity-ktx:1.13.0 — META-INF/androidx/activity/activity-ktx/LICENSE.txt
 androidx.activity:activity:1.13.0 — META-INF/androidx/activity/activity/LICENSE.txt
@@ -466,7 +466,7 @@ jakarta.inject:jakarta.inject-api:2.0.1 — META-INF/LICENSE.txt
    limitations under the License.
 
 ========================================================================
-Android 1.3.148 APK — META-INF/NOTICE.md
+Android 0.1.0 APK — META-INF/NOTICE.md
 jakarta.inject:jakarta.inject-api:2.0.1 — META-INF/NOTICE.md
 ========================================================================
 # Notices for Eclipse Jakarta Dependency Injection

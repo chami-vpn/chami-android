@@ -1,4 +1,4 @@
-License and notice files from Go modules recorded in the Android 1.3.148 ARM64 binary.
+License and notice files for Go modules in the Android 0.1.0 ARM64 binary. This collection was originally compiled using the module list from the Android 1.3.148 ARM64 binary.
 
 ========================================================================
 github.com/apernet/quic-go v0.61.1-0.20260806010916-184d081eef3e — LICENSE

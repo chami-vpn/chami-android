@@ -1,4 +1,4 @@
-# Зависимости Android 1.3.148
+# Зависимости Android 0.1.0
 
 Артефакты из конфигурации Gradle `releaseRuntimeClasspath`. Оптимизация релизной сборки может исключать часть кода. Сопроводительные тексты из артефактов собраны в [Android-dependency-notices.txt](Android-dependency-notices.txt).
 
